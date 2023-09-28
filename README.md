@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @sunoy2004
+- 👀 I’m interested in UI/UX and web design.
+- 🌱 I’m currently learning git and  Web Development.
+- 💞️ I’m looking to collaborate on UI/UX and web-dev.
+- 📫 Reach me on: sun9038575001@gmail.com
